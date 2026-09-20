@@ -2,7 +2,7 @@
 
 ### Project Summary:
 
-Australian GP and allied health clinics lose reception time to routine patient enquiries. Frontdesk is a proposed AI assistant that handles these by phone and website chat, passing anything clinical to staff. It is a concept, not a working service.
+Frontdesk is a proposed AI assistant that handles routine patient enquiries for Australian clinics via phone and website chat, referring clinical matters to staff. It is a concept, not a working service. The application’s design documents are displayed below.
 
 ### Website Widget:
 
