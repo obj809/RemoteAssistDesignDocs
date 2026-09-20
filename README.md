@@ -1,10 +1,10 @@
 ## Remote Assist Design Docs
 
-### Summary:
+### Project Summary:
 
 Australian GP and allied health clinics lose reception time to routine patient enquiries. Frontdesk is a proposed AI assistant that handles these by phone and website chat, passing anything clinical to staff. It is a concept, not a working service.
 
-### Website Widget
+### Website Widget:
 
 ![Website Widget Interface 1](screenshots/panel-01-annotated.png)
 ![Website Widget Interface 2](screenshots/panel-02-annotated.png)
@@ -15,7 +15,7 @@ Australian GP and allied health clinics lose reception time to routine patient e
 ![Website Widget Interface 7](screenshots/panel-07-annotated.png)
 ![Website Widget Interface 8](screenshots/panel-08-annotated.png)
 
-### Phone Line Call Flow
+### Phone Line Call Flow:
 
 ![Phone Line Call Flow 1](screenshots/panel-09-annotated.png)
 ![Phone Line Call Flow 2](screenshots/panel-10-annotated.png)
@@ -23,7 +23,7 @@ Australian GP and allied health clinics lose reception time to routine patient e
 ![Phone Line Call Flow 4](screenshots/panel-12-annotated.png)
 ![Phone Line Call Flow 5](screenshots/panel-13-annotated.png)
 
-### Staff Dashboard
+### Staff Dashboard:
 
 ![Staff Dashboard 1](screenshots/panel-14-annotated.png)
 ![Staff Dashboard 2](screenshots/panel-15-annotated.png)
